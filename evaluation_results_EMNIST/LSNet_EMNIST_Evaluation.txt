@@ -1,0 +1,27 @@
+LSNet Evaluation Results on EMNIST
+==================================================
+
+Model: LSNet-T
+Top-1 Accuracy: 87.3245 %
+Params: 15748827.0
+FLOPs: 35185472.0
+Throughput: 4650.65 images/sec
+Total Inference Time: 4.0424 sec
+Avg Time/Image: 0.00021502 sec
+--------------------------------------------------
+Model: LSNet-S
+Top-1 Accuracy: 87.7500 %
+Params: 32864151.0
+FLOPs: 58640832.0
+Throughput: 4294.61 images/sec
+Total Inference Time: 4.3776 sec
+Avg Time/Image: 0.00023285 sec
+--------------------------------------------------
+Model: LSNet-B
+Top-1 Accuracy: 88.4415 %
+Params: 96590591.0
+FLOPs: 157471872.0
+Throughput: 3142.76 images/sec
+Total Inference Time: 5.9820 sec
+Avg Time/Image: 0.00031819 sec
+--------------------------------------------------

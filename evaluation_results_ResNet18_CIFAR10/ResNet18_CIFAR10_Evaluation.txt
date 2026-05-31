@@ -1,0 +1,11 @@
+ResNet18 Evaluation Results on CIFAR-10
+==================================================
+
+Model: ResNet18
+Top-1 Accuracy: 84.4300 %
+Params: 11181642.0
+FLOPs: 37220352.0
+Throughput: 20501.89 images/sec
+Total Inference Time: 0.4878 sec
+Avg Time/Image: 0.00004878 sec
+--------------------------------------------------

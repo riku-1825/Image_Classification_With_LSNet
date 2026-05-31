@@ -1,0 +1,2 @@
+Model,Top-1 Acc (%),Params,FLOPs,Throughput (img/s),Total Time (s),Avg Time/Image (s)
+ResNet18,84.43,11181642.0,37220352.0,20501.893379306905,0.4877598285675049,4.877598285675049e-05
