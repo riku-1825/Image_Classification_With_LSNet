@@ -1,0 +1,4 @@
+{'Model': 'LSNet-T', 'Top-1 Acc (%)': 84.98, 'Params': 11406920.0, 'FLOPs': 320698496.0, 'Throughput (img/s)': 1527.712068782709, 'Total Time (s)': 6.545736074447632, 'Avg Time/Image (s)': 0.0006545736074447632}
+{'Model': 'LSNet-S', 'Top-1 Acc (%)': 85.92, 'Params': 16142672.0, 'FLOPs': 546113856.0, 'Throughput (img/s)': 1107.8026467697123, 'Total Time (s)': 9.026878595352173, 'Avg Time/Image (s)': 0.0009026878595352173}
+{'Model': 'LSNet-B', 'Top-1 Acc (%)': 87.82, 'Params': 23307528.0, 'FLOPs': 1263077888.0, 'Throughput (img/s)': 637.3633681030323, 'Total Time (s)': 15.689637184143066, 'Avg Time/Image (s)': 0.0015689637184143066}
+{'Model': 'LSNet-B_1', 'Top-1 Acc (%)': 85.24, 'Params': 23307528.0, 'FLOPs': 1263077888.0, 'Throughput (img/s)': 645.4105128859779, 'Total Time (s)': 15.494014739990234, 'Avg Time/Image (s)': 0.0015494014739990234}

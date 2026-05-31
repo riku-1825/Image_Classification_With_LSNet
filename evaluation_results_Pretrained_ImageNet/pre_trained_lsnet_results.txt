@@ -1,0 +1,27 @@
+LSNet Evaluation Results on CIFAR-10
+==================================================
+
+Model: LSNet-T
+Top-1 Accuracy: 0.2600 %
+Params: 11,406,920.0
+FLOPs: 320,698,496.0
+Throughput: 1644.84 images/sec
+Total Inference Time: 6.0796 sec
+Avg Time/Image: 0.00060796 sec
+--------------------------------------------------
+Model: LSNet-S
+Top-1 Accuracy: 0.8400 %
+Params: 16,142,672.0
+FLOPs: 546,113,856.0
+Throughput: 1248.22 images/sec
+Total Inference Time: 8.0114 sec
+Avg Time/Image: 0.00080114 sec
+--------------------------------------------------
+Model: LSNet-B
+Top-1 Accuracy: 0.1400 %
+Params: 23,307,528.0
+FLOPs: 1,263,077,888.0
+Throughput: 687.70 images/sec
+Total Inference Time: 14.5412 sec
+Avg Time/Image: 0.00145412 sec
+--------------------------------------------------
