@@ -103,7 +103,7 @@ requirements.txt
 
 ## Performance Comparison
 
-![Accuracy Comparison](Performance_Comparasion.png)
+![Accuracy Comparison](Images/Performance_Comparasion.png)
 
 ### Key Observations
 
