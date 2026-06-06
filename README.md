@@ -9,6 +9,10 @@ LSNet is a lightweight vision architecture inspired by the human visual system's
 
 This design enables efficient feature extraction while maintaining strong classification performance.
 
+## Architecture
+![Ls Convolution](Images/LS_Convolution.png)
+![LsNet Architecture](Images/LSNet_Architecture.png)
+
 ## Objectives
 
 - Implement LSNet variants for image classification.
@@ -113,9 +117,7 @@ requirements.txt
   
 ## Reference
 
-LSNet: See Large, Focus Small
-Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding
-CVPR 2025
+LSNet: See Large, Focus Small (Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding), CVPR 2025
 
 Paper:
 https://arxiv.org/abs/2503.23135
