@@ -72,6 +72,7 @@ Datasets are automatically downloaded using Torchvision.
 
 ## Repository Structure
 
+```
 Curves/
 ├── LSNet_CIFAR_10/
 ├── LSNet_EMNIST/
@@ -87,6 +88,7 @@ Testing Scripts
 Presentation
 README.md
 requirements.txt
+```
 
 ## Reference
 
