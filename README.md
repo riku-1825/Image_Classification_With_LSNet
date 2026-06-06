@@ -89,7 +89,24 @@ Presentation
 README.md
 requirements.txt
 ```
+## Performance Comparison
 
+| Model | Dataset | Top-1 Accuracy (%) | Parameters (M) | FLOPs (G) |
+|---------|---------|------------------:|---------------:|----------:|
+| ResNet-18 | CIFAR-10 | 84.43 | 11.18 | 0.037 |
+| LSNet-T | CIFAR-10 | 84.98 | 11.41 | 0.321 |
+| LSNet-S | CIFAR-10 | 85.92 | 16.14 | 0.546 |
+| **LSNet-B** | CIFAR-10 | **87.82** | 23.31 | 1.263 |
+| LSNet-T | EMNIST | 87.32 | 15.75 | 0.035 |
+| LSNet-S | EMNIST | 87.75 | 32.86 | 0.059 |
+| **LSNet-B** | EMNIST | **88.44** | 96.59 | 0.157 |
+
+### Key Observations
+
+- LSNet-B achieved the highest classification accuracy on both CIFAR-10 and EMNIST datasets.
+- LSNet-T provides a lightweight alternative with competitive accuracy and lower computational requirements.
+- The results demonstrate the effectiveness of LSNet's "See Large, Focus Small" strategy for efficient image classification.
+  
 ## Reference
 
 LSNet: See Large, Focus Small
