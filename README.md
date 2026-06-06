@@ -101,6 +101,10 @@ requirements.txt
 | LSNet-S | EMNIST | 87.75 | 32.86 | 0.059 |
 | **LSNet-B** | EMNIST | **88.44** | 96.59 | 0.157 |
 
+## Performance Comparison
+
+![Accuracy Comparison](Performance_Comparasion.png)
+
 ### Key Observations
 
 - LSNet-B achieved the highest classification accuracy on both CIFAR-10 and EMNIST datasets.
