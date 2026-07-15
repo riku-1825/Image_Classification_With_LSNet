@@ -15,7 +15,10 @@ LSNet is a lightweight vision architecture inspired by the human visual system's
 This design enables efficient feature extraction while maintaining strong classification performance.
 
 ## Architecture
-|![Ls Convolution](Images/LS_Convolution.png) | ![LsNet Architecture](Images/LSNet_Architecture.png) |
+
+| LS Convolution | LSNet Architecture |
+|:--------------:|:------------------:|
+| <img src="Images/LS_Convolution.png" width="400"/> | <img src="Images/LSNet_Architecture.png" width="400"/> |
 
 ## Objectives
 
